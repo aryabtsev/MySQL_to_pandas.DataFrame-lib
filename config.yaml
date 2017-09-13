@@ -1,0 +1,6 @@
+mysql:
+  default:
+    dbuser: 'user1'
+    dbpass: 'pass1'
+    dbhost: 127.0.0.1
+    dbport: 3306
